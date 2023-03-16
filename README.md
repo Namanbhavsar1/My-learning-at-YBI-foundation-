@@ -1,2 +1,2 @@
 # My-learning-at-YBI-foundation-
-My project 
+My learning at YBI foundation
